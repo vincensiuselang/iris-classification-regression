@@ -1,0 +1,20 @@
+### Additional Files You'll Need:
+
+**1. requirements.txt**
+```text
+# Core
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+jupyter==1.0.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Models
+catboost==1.2.2
+lightgbm==4.1.0
+
+# Explainability
+shap==0.42.1
