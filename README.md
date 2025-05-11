@@ -10,7 +10,6 @@ In this project, we explore:
 - 📊 Feature Visualization
 - ⚖️ Data Normalization
 - 🧠 Model Training (Classification & Regression)
-- 📊 SHAP Value Analysis (for CatBoost/LightGBM)
 - 🎯 Model Evaluation Metrics:
   - Classification: Accuracy, Precision, Recall, F1
   - Regression: MAE, RMSE, R² Score
@@ -23,30 +22,29 @@ In this project, we explore:
 - Jupyter Notebook
 - Matplotlib & Seaborn
 - Pandas & Numpy
-- SHAP (for explainability)
 
 ## 🗂 Project Structure
-📂 iris-ml-project
-├── 🌸 iris_classification/
-│ ├── 🐱 catboost_classification.ipynb
-│ └── 👨‍🏫 knn_classification.ipynb
-├── 📈 iris_regression/
-│ └── 💡 lightgbm_regression.ipynb
+```
+📂 titanic-knn-rf-classification
+├── 🧠 catboost_Classification.ipynb
+├── 🌳 knn_Classification.ipynb
+├── 🌳 knn_Regression.ipynb
+├── 💡 lightGBM_Regression.ipynb
 ├── 📜 README.md
-├── 📋 requirements.txt
-└── 📊 assets/ (visualizations)
+└── requirements.txt
+```
 
 ## 🚀 How to Run
 1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/iris-ml-project.git
+git clone https://github.com/vincensiuselang/iris-classification-regression.git
 
-2. Install dependencies:
-```bash 
+2. Navigate to the project folder:
+cd iris-classification-regression
+
+3. Install dependencies:
 pip install -r requirements.txt
 
-3. Launch Jupyter:
-```bash 
+4. Launch the notebook:
 jupyter notebook
 
 🔍 Key Features
@@ -69,9 +67,9 @@ Create Streamlit demo app
 
 Experiment with Optuna for hyperparameter optimization
 
-📬 Let's Connect
-GitHub: [vincensiuselang](https://github.com/vincensiuselang )
-Tiktok: [Vintec69](https://www.tiktok.com/@vintec69)
-Instagram: [vincensiuselang](https://instagram.com/vincensiuselang)
+## 📬 Let’s Connect
+- Instagram: [vincensiuselang](https://instagram.com/vincensiuselang)
+- TikTok: [Vintec69](https://www.tiktok.com/@vintec69)
+- YouTube: [Formylife](https://www.youtube.com/@4mylifee)
 
 🌿 "Like iris flowers, good models need proper nurturing to bloom!" 🌱
