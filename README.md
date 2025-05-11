@@ -47,7 +47,7 @@ pip install -r requirements.txt
 4. Launch the notebook:
 jupyter notebook
 
-🔍 Key Features
+## 🔍 Key Features
 Classification Models
 KNN Classifier: Baseline model with hyperparameter tuning
 
@@ -58,7 +58,7 @@ LightGBM: High-performance gradient boosting for regression tasks
 
 KNN Regressor: Baseline model with hyperparameter tuning
 
-✨ Future Improvements
+## ✨ Future Improvements
 Implement Neural Network approaches
 
 Add Docker support for reproducibility
